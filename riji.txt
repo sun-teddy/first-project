@@ -1,2 +1,2 @@
-x d x d,here is!
-修复了一个bug
+d x d,here is!
+bug is ok!
